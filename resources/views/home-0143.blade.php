@@ -17,7 +17,7 @@
             <div class="d-flex">
             </div>
             <div class="mr-2 mb-2">
-                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal">Import</button>
+                <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#modal">Import</button>
             </div>
         </div>
         <table class="table table-bordered">
@@ -58,7 +58,7 @@
                             </div>
                         </div>
                         <div class="modal-footer">
-                            <button type="submit" class="btn btn-primary">Save changes</button>
+                            <button type="submit" class="btn btn-danger">Save changes</button>
                         </div>
                     </form>
                 </div>
